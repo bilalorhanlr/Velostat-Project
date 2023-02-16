@@ -48,17 +48,19 @@ we run mod 1 for the second stage, which involves defining the collected data.
 
 We stick a horizontal copper tape on one perfboard and a vertical copper tape on another perfboard. We place the velostat between these two perfboards and connect each copper trace to a multiplexer with a wire.
 <p align="center">
-  <img src="https://github.com/bilalorhanlr/Velostat-Project/blob/main/Pictures/Layers.jpeg" width="450" title="hover text">
+  <img src="https://github.com/bilalorhanlr/Velostat-Project/blob/main/Pictures/Layers.jpeg" width="300" title="hover text">
+  <img src="https://github.com/bilalorhanlr/Velostat-Project/blob/main/Schematic/schematic2.png" width="681" title="hover text">
 </p>
 
 
-**NOTE**
+
+###### NOTE
 
 If you are going to do this project using STM, you can get support from these resources.
 - [Mux Usage](https://www.stm32duino.com/viewtopic.php?t=1073)
 (You may have completed this while you are reading this. Please don't hesitate to contact me if you have any questions or concerns.)
 
 
-**RESOURCES**
+###### RESOURCES
 
 - [cd74hc4067 Multiplexer](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
